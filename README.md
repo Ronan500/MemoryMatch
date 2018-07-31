@@ -1,2 +1,2 @@
 # Memory Match Game
-Codecademy Project using JS jQuery and Bootstrap
+Project using JS jQuery and Bootstrap
